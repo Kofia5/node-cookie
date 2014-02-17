@@ -1,6 +1,6 @@
 {
   "author": "Roman Shtylman <shtylman@gmail.com>",
-  "name": "cookie",
+  "name": "node-cookie",
   "description": "cookie parsing and serialization",
   "version": "0.2.0",
   "repository": {
